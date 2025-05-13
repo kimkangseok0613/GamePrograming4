@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|solutionrelative:Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB234C82-8669-4A2B-BDEB-A798A38258C4}|GamePrograming4.vcxproj|solutionrelative:Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.h",
-              "RelativeDocumentMoniker": "main.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.h",
-              "RelativeToolTip": "main.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Sample.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Sample.h",
+              "RelativeDocumentMoniker": "Sample.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Sample.h",
+              "RelativeToolTip": "Sample.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAC0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-13T07:03:42.488Z",
+              "WhenOpened": "2025-05-13T07:57:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Template.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Template.h",
+              "RelativeDocumentMoniker": "Template.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\Template.h",
+              "RelativeToolTip": "Template.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T07:42:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T07:14:00.687Z",
               "EditorCaption": ""
             }
           ]
