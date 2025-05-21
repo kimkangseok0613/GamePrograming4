@@ -3,7 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B5C5A2B-CB0E-431E-BE6D-92C8A78E5585}|..\\CH1.Generic Programing\\CH1.Generic Programing.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\CH1.Generic Programing\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91F07F61-489B-4FB1-89CA-D0568D13ECAA}|..\\TownRPG\\TownRPG.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F07F61-489B-4FB1-89CA-D0568D13ECAA}|..\\TownRPG\\TownRPG.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F07F61-489B-4FB1-89CA-D0568D13ECAA}|..\\TownRPG\\TownRPG.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +24,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\CH1.Generic Programing\\main.cpp",
-              "RelativeDocumentMoniker": "..\\CH1.Generic Programing\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\CH1.Generic Programing\\main.cpp",
-              "RelativeToolTip": "..\\CH1.Generic Programing\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "BattleManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\BattleManager.cpp",
+              "RelativeDocumentMoniker": "..\\TownRPG\\BattleManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\BattleManager.cpp",
+              "RelativeToolTip": "..\\TownRPG\\BattleManager.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-14T07:02:43.228Z",
+              "WhenOpened": "2025-05-21T08:31:24.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\main.cpp",
+              "RelativeDocumentMoniker": "..\\TownRPG\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\main.cpp",
+              "RelativeToolTip": "..\\TownRPG\\main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T08:24:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModel.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\GameModel.h",
+              "RelativeDocumentMoniker": "..\\TownRPG\\GameModel.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\TownRPG\\GameModel.h",
+              "RelativeToolTip": "..\\TownRPG\\GameModel.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-21T08:12:55.611Z",
               "EditorCaption": ""
             }
           ]
