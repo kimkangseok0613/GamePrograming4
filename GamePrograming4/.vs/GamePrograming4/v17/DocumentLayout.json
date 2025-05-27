@@ -3,16 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A872CDC6-84E2-4B16-B8F0-C9C04878217D}|..\\Ch7_DataLoadAndSave\\Ch7_DataLoadAndSave.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{15895837-6B12-440F-918F-542805572098}|..\\Ch9_Sequence Content\\Ch9_Sequence Content.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A872CDC6-84E2-4B16-B8F0-C9C04878217D}|..\\Ch7_DataLoadAndSave\\Ch7_DataLoadAndSave.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{15895837-6B12-440F-918F-542805572098}|..\\Ch9_Sequence Content\\Ch9_Sequence Content.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A872CDC6-84E2-4B16-B8F0-C9C04878217D}|..\\Ch7_DataLoadAndSave\\Ch7_DataLoadAndSave.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1D6092AD-0573-4653-9AF5-59962019A3E6}|..\\Utility\\Utility.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Utility\\ConsloeUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A872CDC6-84E2-4B16-B8F0-C9C04878217D}|..\\Ch7_DataLoadAndSave\\Ch7_DataLoadAndSave.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DropTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A872CDC6-84E2-4B16-B8F0-C9C04878217D}|..\\Ch7_DataLoadAndSave\\Ch7_DataLoadAndSave.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15895837-6B12-440F-918F-542805572098}|..\\Ch9_Sequence Content\\Ch9_Sequence Content.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\FunctionPointer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15895837-6B12-440F-918F-542805572098}|..\\Ch9_Sequence Content\\Ch9_Sequence Content.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\TimeCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +28,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataHandler.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DataHandler.h",
-              "RelativeDocumentMoniker": "..\\Ch7_DataLoadAndSave\\DataHandler.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DataHandler.h",
-              "RelativeToolTip": "..\\Ch7_DataLoadAndSave\\DataHandler.h",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwC8AAAANAAAA",
+              "Title": "ConsoleUtility.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\ConsoleUtility.h",
+              "RelativeDocumentMoniker": "..\\Ch9_Sequence Content\\ConsoleUtility.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\ConsoleUtility.h",
+              "RelativeToolTip": "..\\Ch9_Sequence Content\\ConsoleUtility.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T08:11:04.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DropTable.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DropTable.h",
-              "RelativeDocumentMoniker": "..\\Ch7_DataLoadAndSave\\DropTable.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\DropTable.h",
-              "RelativeToolTip": "..\\Ch7_DataLoadAndSave\\DropTable.h",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwDEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T07:39:29.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameModel.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\GameModel.h",
-              "RelativeDocumentMoniker": "..\\Ch7_DataLoadAndSave\\GameModel.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\GameModel.h",
-              "RelativeToolTip": "..\\Ch7_DataLoadAndSave\\GameModel.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T07:02:53.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T08:16:17.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ConsloeUtility.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Utility\\ConsloeUtility.h",
+              "RelativeDocumentMoniker": "..\\Utility\\ConsloeUtility.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Utility\\ConsloeUtility.h",
+              "RelativeToolTip": "..\\Utility\\ConsloeUtility.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T08:10:05.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUtility.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\ConsoleUtility.h",
+              "RelativeDocumentMoniker": "..\\Ch7_DataLoadAndSave\\ConsoleUtility.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\ConsoleUtility.h",
+              "RelativeToolTip": "..\\Ch7_DataLoadAndSave\\ConsoleUtility.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T08:09:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionPointer.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\FunctionPointer.h",
+              "RelativeDocumentMoniker": "..\\Ch9_Sequence Content\\FunctionPointer.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\FunctionPointer.h",
+              "RelativeToolTip": "..\\Ch9_Sequence Content\\FunctionPointer.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T07:47:45.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeCheck.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\TimeCheck.h",
+              "RelativeDocumentMoniker": "..\\Ch9_Sequence Content\\TimeCheck.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\TimeCheck.h",
+              "RelativeToolTip": "..\\Ch9_Sequence Content\\TimeCheck.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T07:17:02.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch7_DataLoadAndSave\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch7_DataLoadAndSave\\main.cpp",
-              "RelativeToolTip": "..\\Ch7_DataLoadAndSave\\main.cpp",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCsAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch9_Sequence Content\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch9_Sequence Content\\main.cpp",
+              "RelativeToolTip": "..\\Ch9_Sequence Content\\main.cpp",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAswGIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-22T07:02:27.632Z",
+              "WhenOpened": "2025-05-26T07:06:45.541Z",
               "EditorCaption": ""
             }
           ]
