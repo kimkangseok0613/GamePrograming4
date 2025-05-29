@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4777B7AC-65BF-4792-AEA7-FC9984A0030E}|..\\Ch12_Associate Container\\Ch12_Associate Container.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch12_Associate Container\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp*",
+              "RelativeToolTip": "..\\Ch12_Associate Container\\main.cpp*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T07:02:20.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
