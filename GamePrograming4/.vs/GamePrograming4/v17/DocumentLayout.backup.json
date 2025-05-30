@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4777B7AC-65BF-4792-AEA7-FC9984A0030E}|..\\Ch12_Associate Container\\Ch12_Associate Container.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{01C92A74-3B3D-4F31-86F1-02658A01D856}|..\\Ch13_ShopNPC\\Ch13_ShopNPC.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C92A74-3B3D-4F31-86F1-02658A01D856}|..\\Ch13_ShopNPC\\Ch13_ShopNPC.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleUtility.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\ConsoleUtility.h",
+              "RelativeDocumentMoniker": "..\\Ch13_ShopNPC\\ConsoleUtility.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\ConsoleUtility.h",
+              "RelativeToolTip": "..\\Ch13_ShopNPC\\ConsoleUtility.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-30T07:06:06.092Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch12_Associate Container\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch12_Associate Container\\main.cpp*",
-              "RelativeToolTip": "..\\Ch12_Associate Container\\main.cpp*",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF4AAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch13_ShopNPC\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming4\\Ch13_ShopNPC\\main.cpp*",
+              "RelativeToolTip": "..\\Ch13_ShopNPC\\main.cpp*",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAgwN8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-29T07:02:20.129Z",
+              "WhenOpened": "2025-05-30T07:02:30.168Z",
               "EditorCaption": ""
             }
           ]

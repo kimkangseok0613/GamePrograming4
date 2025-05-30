@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(85,7): warning C4101: 'price' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,14): error C2440: '<function-style-cast>': 'std::string'에서 'Shop'(으)로 변환할 수 없습니다.
+      C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,14):
+      'Shop::Shop': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
+          C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(124,1):
+          'Shop::Shop(Shop &&)'일 수 있습니다.
+              C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,14):
+              'Shop::Shop(Shop &&)': 인수 1을(를) 'std::string'에서 'Shop &&'(으)로 변환할 수 없습니다.
+                  C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,15):
+                  원인: 'std::string'에서 'Shop'(으)로 변환할 수 없습니다.
+                  C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,15):
+                  이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+          C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(124,1):
+          또는       'Shop::Shop(const Shop &)'
+              C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,14):
+              'Shop::Shop(const Shop &)': 인수 1을(를) 'std::string'에서 'const Shop &'(으)로 변환할 수 없습니다.
+                  C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,15):
+                  원인: 'std::string'에서 'const Shop'(으)로 변환할 수 없습니다.
+                  C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,15):
+                  이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+          C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(141,14):
+          인수 목록 '(std::string)'을(를) 일치시키는 동안
+  
+C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(160,7): error C2039: 'sho': 'NPC'의 멤버가 아닙니다.
+      C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(130,7):
+      'NPC' 선언을 참조하십시오.
+  
+C:\Users\User\Desktop\GamePrograming4\Ch13_ShopNPC\main.cpp(161,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
