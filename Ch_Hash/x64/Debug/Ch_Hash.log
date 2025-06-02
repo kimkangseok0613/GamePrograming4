@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Desktop\GamePrograming4\Ch_Hash\main.cpp(78,7): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\User\Desktop\GamePrograming4\Ch_Hash\main.cpp(93,8): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+  Ch_Hash.vcxproj -> C:\Users\User\Desktop\GamePrograming4\GamePrograming4\x64\Debug\Ch_Hash.exe
